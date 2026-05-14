@@ -1,26 +1,38 @@
-# Informacion
+<div align="center">
 
-Estos son los proyectos de front que he hecho, tanto propios como freelancer,
-categoriazados con el framework o con que fue construido.
+# 🖼️ Frontend
 
-## HTML
+Proyectos web (UIs, sitios, herramientas) que he construido — propios y freelance.
+Para que un visitante encuentre rápido lo bueno sin tener que escarbar en mi perfil.
 
-- [gatitoswebs](https://github.com/KamerrEzz/gatitoswebs) - Una web simple 
+</div>
 
-- [congoogle](https://github.com/KamerrEzz/congoogle) - Clon de la pagina de busqueda de google
+---
 
-- [template bot websimple](https://github.com/KamerrEzz/template-bot-websimple) - Una web para mostrar informacion de tu bot de discord
+## ⭐ Destacados
 
-## Reactjs
+### 🌍 Todos Juntos, Siempre a Tiempo (`horarios`)
+Aplicación para visualizar y comparar diferencias horarias entre países, tomando como referencia la zona local. Ideal para coordinar equipos y eventos globales.
 
-- [Template](https://github.com/KamerrEzz/reactjs-template) - Un pequeña base para usar reactjs con webpack
+→ [Repo](https://github.com/KamerrEzz/horarios)
 
-- [rickandmorty](https://github.com/KamerrEzz/rickandmorty-hooks) - Una web de los personajes de la serie de rick y morty
+### ⏱️ ticktime — Contadores regresivos multi-zona
+Herramienta gratuita para crear contadores regresivos con soporte multi-zona horaria. Sin registros, sin descargas. Pensado para eventos, lanzamientos, reuniones.
 
-- [TODO](https://github.com/KamerrEzz/todo-list-reacjs) - Una app web para administrar tareas
+→ [Repo](https://github.com/KamerrEzz/ticktime)
 
-- [ki.img - Reactjs ](https://github.com/KamerrEzz/ki.img-upload-testing/tree/js-express-reactjs) - Una app para mostrar y subir imagenes
+### 🪪 kamerrezz.com
+Mi sitio personal, construido con Astro.
 
-- [Todos Juntos, Siempre a Tiempo](https://github.com/KamerrEzz/horarios) - Aplicación para visualizar y comparar diferencias horarias entre países, tomando como referencia la zona horaria local. Creada para facilitar la coordinación de equipos y eventos a nivel global, superando las barreras del espacio y del tiempo.
+→ [Repo](https://github.com/KamerrEzz/kamerrezz.com) · [Visitar](https://kamerrezz.com)
 
-- [ticktime — Contadores regresivos multi-zona](https://github.com/KamerrEzz/ticktime) - ticktime es una herramienta gratuita para crear contadores regresivos personalizados con soporte para múltiples zonas horarias. Ideal para eventos, reuniones, lanzamientos o cualquier ocasión que requiera sincronización global, todo sin registros ni descargas.
+---
+
+## ✅ Otros proyectos vivos
+
+- **[commissioncalculator](https://github.com/KamerrEzz/commissioncalculator)** *(Vue)* — calculadora de comisiones.
+- **[ki.img](https://github.com/KamerrEzz/ki.img)** *(HTML)* — template de visor/galería de imágenes. → [demo](https://kamerrezz.com/proyects/ki.img)
+
+---
+
+<sub>Stacks que más uso aquí: React, Next.js, Vue, Astro, TypeScript, Tailwind CSS.</sub>
